@@ -86,7 +86,7 @@ sudo pip3 install ansible.
  
 
 •	Запустила ping к ВМ по IP адресу 192.168.6.1 для проверки работоспособности.
-![image](https://user-images.githubusercontent.com/58992611/199181239-fee91390-b8dd-46b6-a549-e5f6805aeb9a.png)
+![image](https://user-images.githubusercontent.com/58992611/199189665-f6ed5932-ae62-4ef0-8434-9dd1c7fb42f5.png)
  
 
 •	В результате получаем связь по следующей схеме. 
