@@ -1,9 +1,15 @@
 University: ITMO University
+
 Faculty: ICT
+
 Course: Network programming
+
 Year: 2022
+
 Group: K34212
+
 Автор: Сорокина Ирина Игоревна
+
 Lab: 1
 
 Цель работы: развертывание виртуальной машины с установленной системой контроля конфигураций Ansible, установка CHR в VirtualBox, установка VPN туннеля между машиной Ubuntu и RouterOS.
