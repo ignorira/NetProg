@@ -1,9 +1,15 @@
 University: ITMO University
+
 Faculty: ICT
+
 Course: Network programming
+
 Year: 2022/2023 
+
 Group: K34212 
+
 Author: Sorokina Irina
+
 Lab2 
 
 Цель работы
