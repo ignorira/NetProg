@@ -60,6 +60,7 @@ Lab3
 ![image](https://user-images.githubusercontent.com/58992611/207256520-c21570a1-0497-432a-b84c-f5e019bb19e9.png)
 
 Схема связи
+
 ![image](https://user-images.githubusercontent.com/58992611/207256605-13d34c10-e85f-49b8-8b15-b4daa745d07d.png)
 
 Вывод
