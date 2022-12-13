@@ -13,7 +13,9 @@ Author: Sorokina Irina
 Lab3
 
 Цель: Изучить и настроить взаимодействие междy Ansible и NetBox.
+
 Ход работы
+
 Для начала создаем новую виртуальную машину. Затем запускаем NetBox. Это требует установки большого количества зависимостей, поэтому устанавливаем PostgreSQL с помощью команды «sudo apt install postgresql». 
 ![image](https://user-images.githubusercontent.com/58992611/207255462-7da10683-6843-4f62-bcd8-33eed5ec4ab1.png)
 
