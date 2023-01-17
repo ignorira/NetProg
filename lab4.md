@@ -10,7 +10,7 @@ Group: K34212
 
 Author: Sorokina Irina
 
-Lab3
+Lab4
 
 Цель работы
 
